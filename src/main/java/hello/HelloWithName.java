@@ -14,6 +14,12 @@ public class HelloWithName {
 
         System.out.println("Hello " + name);
 
+
+        System.out.println("What are you for halloween?");
+
+        String costume = scanner.nextLine();
+
+        System.out.println("Tick or Treat! " + "I'm a " + costume);
     }
 
 }
