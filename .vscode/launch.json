@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CreateCircle",
+      "request": "launch",
+      "mainClass": "main.java.hello.CreateCircle",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "Receipt",
       "request": "launch",
       "mainClass": "main.java.hello.Receipt",
